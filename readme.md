@@ -26,5 +26,7 @@ Create custom vehicle spawns for your DayZ Reality server.
 
 
 ### [Changelog] ###
+    [V1.10]
+    - The tool can now import buildings too. Expect a few little updates to come since this feature is currently experimental. 
     [V1.00]
     - Initial Release and GIT setup
