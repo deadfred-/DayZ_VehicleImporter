@@ -26,6 +26,12 @@ Create custom vehicle spawns for your DayZ Reality server.
 
 
 ### [Changelog] ###
+    [V1.20]
+    - Fixed an error where the tool does not close completely if you exit it from the settings window.
+    - Added an option where you can choose to start from an custom vehicle ID. >ONLY USE THIS IF YOU KNOW WHAT YOU'RE DOING<
+    - Added some information messages for certain steps
+    - Cleaned and commentet the code, mostly for myself
+    - Fixed a few spelling errors
     [V1.10]
     - The tool can now import buildings too. Expect a few little updates to come since this feature is currently experimental. 
     [V1.00]
