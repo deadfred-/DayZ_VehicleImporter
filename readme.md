@@ -20,9 +20,9 @@ Create custom vehicle spawns for your DayZ Reality server.
 
 ### [Screenshots] ###
 
-![](http://db.tt/23jR6sbB)
-![](http://db.tt/SeJTMY3c)
-![](http://db.tt/rGea02JS)
+![](https://dl.dropboxusercontent.com/u/50280080/1.png)
+![](https://dl.dropboxusercontent.com/u/50280080/2.png)
+![](https://dl.dropboxusercontent.com/u/50280080/3.png)
 
 
 ### [Changelog] ###
