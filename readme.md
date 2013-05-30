@@ -16,7 +16,7 @@ Create custom vehicle spawns for your DayZ Reality server.
 
 
 ####[Dependencies] ####
-~.Net Framework 3.5
+~.Net Framework 3.5 
 
 ### [Screenshots] ###
 
