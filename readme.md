@@ -32,6 +32,7 @@ Create custom vehicle spawns for your DayZ Reality server.
     - Added some information messages for certain steps
     - Cleaned and commentet the code, mostly for myself
     - Fixed a few spelling errors
+    - Vehicles that are not found in your "vehicles" table will now be removed from the list of vehicles to import. This is to prevent errors.
     [V1.10]
     - The tool can now import buildings too. Expect a few little updates to come since this feature is currently experimental. 
     [V1.00]
