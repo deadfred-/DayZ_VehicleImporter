@@ -16,23 +16,28 @@ Create custom vehicle spawns for your DayZ Reality server.
 
 
 ####[Dependencies] ####
-~.Net Framework 3.5 
+~.Net Framework 3.5
 
 ### [Screenshots] ###
 
-![](https://dl.dropboxusercontent.com/u/50280080/1.png)
-![](https://dl.dropboxusercontent.com/u/50280080/2.png)
-![](https://dl.dropboxusercontent.com/u/50280080/3.png)
+![](http://db.tt/23jR6sbB)
+![](http://db.tt/SeJTMY3c)
+![](http://db.tt/rGea02JS)
 
 
 ### [Changelog] ###
+	[V1.21]
+	- Function to add vehicles to your 'vehicle' table if they don't exist
+	- Added restart button so you can start from step1 again without restarting the whole application
+	- Added a panel that shows you what vehicles have been removed from the import list because the don't exist in your 'vehicle' table
+	- Some other minor changes
     [V1.20]
     - Fixed an error where the tool does not close completely if you exit it from the settings window.
     - Added an option where you can choose to start from an custom vehicle ID. >ONLY USE THIS IF YOU KNOW WHAT YOU'RE DOING<
     - Added some information messages for certain steps
     - Cleaned and commentet the code, mostly for myself
     - Fixed a few spelling errors
-    - Vehicles that are not found in your "vehicles" table will now be removed from the list of vehicles to import. This is to prevent errors.
+	- Vehicles that are not found in your "vehicles" table will now be removed from the list of vehicles to import. This is to prevent errors.
     [V1.10]
     - The tool can now import buildings too. Expect a few little updates to come since this feature is currently experimental. 
     [V1.00]
